@@ -1,1 +1,3 @@
 # Flappy-Bird
+You can try demo here...
+[Flappy Bird](https://nandeshboyz.itch.io/flappy-bird).
